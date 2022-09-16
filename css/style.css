@@ -1,3 +1,6 @@
 html, body {
   margin: 0;
+  background: url('https://mario.wiki.gallery/images/thumb/1/13/Funky_Kong_Artwork_-_Donkey_Kong_Country_Tropical_Freeze.png/1200px-Funky_Kong_Artwork_-_Donkey_Kong_Country_Tropical_Freeze.png');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
